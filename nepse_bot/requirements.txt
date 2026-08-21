@@ -1,0 +1,17 @@
+# Core Kronos dependencies (from root requirements.txt)
+numpy
+pandas
+torch>=2.0.0
+einops==0.8.1
+huggingface_hub>=0.20.0
+matplotlib>=3.9.0
+tqdm>=4.60.0
+safetensors>=0.4.0
+
+# NEPSE Bot additional dependencies
+flask>=3.0.0
+flask-cors>=4.0.0
+plotly>=5.18.0
+requests>=2.31.0
+waitress>=3.0.0
+mysql-connector-python>=8.0.0
